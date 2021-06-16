@@ -1,24 +1,26 @@
+# Bike sharing
+
 En esta carpeta se muestra el proyecto final de Economía Computacional
 
 Proyecto Final: Bike sharing
 
 Objetivo: Blue bikes es una empresa de bike sharing en Boston. Buscamos ofrecerles una solución para que los usuarios vean en la cantidad de bicicletas disponibles en cada estación en tiempo ‘real’.
 
-Datos: https://www.bluebikes.com/system-data
+#### Datos
 
- + Datos de viajes
- + Ubicaciones de estaciones
- + Complemento: Clima
+https://www.bluebikes.com/system-data
 
-Autores:
+Se usan datos de viajes, ubicaciones de estaciones y datos climáticos como complemento.
 
- + Alfredo Lefranc Flores
- + Cynthia Raquel Valdivia Tirado
- + Rafael Sandoval Fernández 
- + Marco Antonio Ramos Juárez
- + Francisco Velázquez Guadarrama
+#### Autores
 
-Estructura
+ * Alfredo Lefranc Flores
+ * Cynthia Raquel Valdivia Tirado
+ * Rafael Sandoval Fernández 
+ * Marco Antonio Ramos Juárez
+ * Francisco Velázquez Guadarrama
+
+#### Estructura
 
 1. Planteamiento del problema
 2. Limpieza de datos
@@ -28,12 +30,14 @@ Estructura
     4.2. Factores que hacen que un viaje dure más o menos
 5. Solución, propuestas y valor agregado del análisis
 
-Archivos:
+#### Archivos
 
 código:
-comprension.Rmd <- Comprensión de Negocio y EDA
-modelado.Rmd <- Análisis, modelado y aplicaciones de negocio
 
-entregables (en la carpeta entrega_final):
-I. Comprension y EDA.html <- Comprensión de Negocio y EDA
-II. Modelado <- Análisis, modelado y aplicaciones de negocio
+* comprension.Rmd <- Comprensión de Negocio y EDA
+* modelado.Rmd <- Análisis, modelado y aplicaciones de negocio
+
+#### Entregables
+
+1. [Comprensión de Negocio y EDA](https://alfredo-lefranc.github.io/economia_computacional/bike_sharing_I_comprension)
+2. [Análisis, modelado y aplicaciones de negocio](https://alfredo-lefranc.github.io/economia_computacional/bike_sharing_II_modelado)
