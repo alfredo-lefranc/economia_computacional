@@ -1,6 +1,8 @@
 Este repositorio contiene algunos de los trabajos realizados en la clase de Economía Computacional del ITAM, la cual tuvo lugar en el semestre de primavera de 2021 y fue impartida por Isidoro García.
 
-El equipo se integró por:
+This repository has some of the projects from the Computational Economics class at ITAM, which took place during the Spring semester in 2021, taught by Isidoro Garcia.
+
+Team members:
 
  - Alfredo Lefranc Flores
  - Cynthia Raquel Valdivia Tirado
@@ -8,13 +10,12 @@ El equipo se integró por:
  - Marco Antonio Ramos Juárez
  - Francisco Velázquez Guadarrama
  
- Cada carpeta corresponde a un trabajo:
+ The projects included are:
  
- bike_sharing: proyecto final. Predecir duraciones de viaje y proponer una estrategia de negocio para una empresa de bicicletas compartidas.
+ bike_sharing: final project. The goal was to predict trip durations and propose a business strategy for a bike-sharing company.
  
- churn_prediction: Predicción de abandono en una compañía de telefonía móvil con base en datos de los usuarios y el uso de sus líneas.
+ churn_prediction: The goal was to predict churn at a mobile phone company based on users data.
  
- rappi_strategy: elaboración y evaluación de distintas estrategias de marketing para activar a los usuarios de la plataforma Rappi.
+ rappi_strategy: The goal was to evaluate different marketing strategies to enhance usage of Rappi by its customers.
  
- 
- En las carpetas se encontrará el código así como el producto final de cada entrega.
+ The projects include all stages of a data project, from data cleaning and exploration, to modeling and business recommendations.
