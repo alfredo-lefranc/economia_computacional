@@ -1,5 +1,3 @@
-Este repositorio contiene algunos de los trabajos realizados en la clase de Economía Computacional del ITAM, la cual tuvo lugar en el semestre de primavera de 2021 y fue impartida por Isidoro García.
-
 This repository has some of the projects from the Computational Economics class at ITAM, which took place during the Spring semester in 2021, taught by Isidoro Garcia.
 
 Team members:
